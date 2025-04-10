@@ -11,7 +11,7 @@ I'm passionate about creating productivity tools that empower freelancers to ach
 
 📷 Connect with me on Instagram: [@mitchellroemling](https://instagram.com/mitchellroemling)
 
-🤝 See my profile on [LinkedIn](https://au.linkedin.com/in/mitchell-roemling)
+🤝 See my profile on [LinkedIn](https://au.linkedin.com/in/mitchell-roemling-175365288)
 
 ---
 *"Building tomorrow's tools for today's independent professionals."*
