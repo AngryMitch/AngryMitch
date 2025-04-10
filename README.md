@@ -14,15 +14,3 @@ I'm passionate about creating productivity tools that empower freelancers to ach
 
 ---
 *"Building tomorrow's tools for today's independent professionals."*
-
-Mitchell Roemling
-👨‍🎓 Information Systems student at Queensland University of Technology (QUT)
-I'm passionate about creating productivity tools that empower freelancers to achieve more. My current goal is building an interconnected ecosystem of applications designed specifically for independent professionals.
-
-# Current Focus
-- Designing and Planning integrated systems to meet my own needs
-- Build / Skills in Digital Product Management as well as furthering my technical skills
-
-📷 Connect with me on Instagram: @mitchellroemling
-
-"Building tomorrow's tools for today's independent professionals."
